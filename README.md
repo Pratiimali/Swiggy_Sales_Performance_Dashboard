@@ -30,6 +30,32 @@ An interactive **Excel** dashboard that analyzes Swiggy order trends, revenue ge
 3. Review insights to understand Swiggy's operational trends.
 
 
+🖼️ Dashboard Previews
+
+📊 Excel Dashboard
+
+![Excel Dashboard](Swiggy_Dashboard_Preview/excel_dashboard.png)
+
+📌 *Displays KPI cards, bar charts, trend analysis, and slicers for interactive filtering.*
+
+
+
+📊 Power BI Dashboard
+
+![Power BI Dashboard](Swiggy_Dashboard_Preview/powerbi_dashboard.png)
+
+📌 *Includes interactive KPI cards, slicers, drill-down visuals for revenue, orders, and payment analysis.*
+
+
+
+📊 Tableau Dashboard
+
+![Tableau Dashboard](Swiggy_Dashboard_Preview/tableau_dashboard.png)
+
+📌 *Showcases donut charts, map-based analysis, order value distributions, and interactive storytelling.*
+
+
+
 👩‍💻 Author
 - **Name:** Pratiksha Mali  
 - **LinkedIn:** [linkedin.com/in/pratiksha-mali-b42088221](https://www.linkedin.com/in/pratiksha-mali-b42088221)  
