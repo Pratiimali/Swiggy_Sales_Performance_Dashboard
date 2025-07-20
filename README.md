@@ -34,7 +34,7 @@ An interactive **Excel** dashboard that analyzes Swiggy order trends, revenue ge
 
 📊 Excel Dashboard
 
-![Excel Dashboard](Swiggy_Dashboard_Preview/excel_dashboard.png)
+![Excel Dashboard](Swiggy_Dashboard_Preview/excel_dashboard.JPG)
 
 📌 *Displays KPI cards, bar charts, trend analysis, and slicers for interactive filtering.*
 
@@ -42,7 +42,7 @@ An interactive **Excel** dashboard that analyzes Swiggy order trends, revenue ge
 
 📊 Power BI Dashboard
 
-![Power BI Dashboard](Swiggy_Dashboard_Preview/powerbi_dashboard.png)
+![Power BI Dashboard](Swiggy_Dashboard_Preview/powerbi_dashboard.JPG)
 
 📌 *Includes interactive KPI cards, slicers, drill-down visuals for revenue, orders, and payment analysis.*
 
@@ -50,7 +50,7 @@ An interactive **Excel** dashboard that analyzes Swiggy order trends, revenue ge
 
 📊 Tableau Dashboard
 
-![Tableau Dashboard](Swiggy_Dashboard_Preview/tableau_dashboard.png)
+![Tableau Dashboard](Swiggy_Dashboard_Preview/tableau_dashboard.JPG)
 
 📌 *Showcases donut charts, map-based analysis, order value distributions, and interactive storytelling.*
 
