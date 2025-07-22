@@ -1,9 +1,11 @@
-📊 Swiggy Sales Performance Dashboard (Excel)
+📊 Swiggy Sales Performance Dashboard 
 
 An interactive **Excel** dashboard that analyzes Swiggy order trends, revenue generation, payment preferences, and cuisine patterns across cities and time periods. This dashboard offers key insights into total orders, revenue, and payment modes, helping stakeholders understand customer behavior and operational trends for Swiggy.
 
 
 🛠️ Tools Used
+
+
 **Excel:** Data cleaning, KPI calculations, pivot charts, and dashboard structuring.
 
 **Power BI:** Advanced interactive dashboards, slicers, KPI cards, DAX measures, and drill-down analysis.
@@ -36,25 +38,31 @@ An interactive **Excel** dashboard that analyzes Swiggy order trends, revenue ge
 
 📊 Excel Dashboard
 
+📌 *Displays KPI cards, bar charts, trend analysis, and slicers for interactive filtering.*
+
 ![Excel Dashboard](Swiggy_Dashboard_Preview/excel_dashboard.JPG)
 
-📌 *Displays KPI cards, bar charts, trend analysis, and slicers for interactive filtering.*
+
 
 
 
 📊 Power BI Dashboard
 
+📌 *Includes interactive KPI cards, slicers, drill-down visuals for revenue, orders, and payment analysis.*
+
 ![Power BI Dashboard](Swiggy_Dashboard_Preview/powerbi_dashboard.JPG)
 
-📌 *Includes interactive KPI cards, slicers, drill-down visuals for revenue, orders, and payment analysis.*
+
 
 
 
 📊 Tableau Dashboard
 
+📌 *Showcases donut charts, map-based analysis, order value distributions, and interactive storytelling.*
+
 ![Tableau Dashboard](Swiggy_Dashboard_Preview/tableau_dashboard.JPG)
 
-📌 *Showcases donut charts, map-based analysis, order value distributions, and interactive storytelling.*
+
 
 
 
