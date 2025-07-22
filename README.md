@@ -5,7 +5,9 @@ An interactive **Excel** dashboard that analyzes Swiggy order trends, revenue ge
 
 🛠️ Tools Used
 **Excel:** Data cleaning, KPI calculations, pivot charts, and dashboard structuring.
+
 **Power BI:** Advanced interactive dashboards, slicers, KPI cards, DAX measures, and drill-down analysis.
+
 **Tableau:** Clean, story-driven dashboards with advanced visuals like donut charts, maps, and interactive filtering.
 
 
